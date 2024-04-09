@@ -1,2 +1,2 @@
 # THE AMAZING SOFTWARE TO HANDLE RETARDED SPECTROSCOPS ON DISCTANCE.
-<img src="guwno.jpg" width=50% height=50%>
+<img src="guwno.jpg" width=20% height=20%>
