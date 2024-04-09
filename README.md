@@ -1,1 +1,2 @@
 THE AMAZING SOFTWARE TO HANDLE RETARDED SPECTROSCOPS ON DISCTANCE.
+![guwno](https://github.com/CppEnjoyer69/spectrum-to-csv/assets/102436271/715b1999-bdc1-4426-9cef-65c3f29fe38e)
