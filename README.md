@@ -1,2 +1,2 @@
 # THE AMAZING SOFTWARE TO HANDLE WEIRD SPECTROSCOPS ON DISTANCE.
-<img src="guwno.jpg" width=20% height=20%>
+<img src="spectro.jpg" width=20% height=20%>
